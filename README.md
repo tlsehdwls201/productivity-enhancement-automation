@@ -42,7 +42,7 @@
 ---
 
 ## 🛠️ 개발 환경
-- **언어 및 도구:** Java, MySQL, Command Prompt
+- **언어 및 도구:** Java, MySQL, Command Prompt, XML
 - **API 사용:** Naver Search API
 
 ---
